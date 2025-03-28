@@ -261,3 +261,31 @@
 .list-section-tabs-sell:hover {
     cursor: pointer;
 }
+
+/* Hero Section */
+.hero-section {
+    background-image: url("photos/hero_section.jpg");
+    background-size: cover;
+    height: 410px;
+    width: 1463.460px;
+}
+
+.hero-section-first {
+    font-size: 14px;
+    background-color: #f5f6f6;
+    height: 20px;
+    width: 1400px;
+    padding: 10px 14px;
+    margin-left: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 60%;
+}
+
+.hero-section-first a {
+    color: #2162a1;
+    text-decoration: none;
+    padding-left: 4px;
+}
