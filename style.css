@@ -155,3 +155,89 @@
     font-weight: 700;
     font-size: 14px;
 }
+
+/* List-Section */
+.list-section {
+    height: 40px;
+    background-color: #232f3e;
+    display: flex;
+}
+
+/* box1 */
+.list-section-menu {
+    height: 40px;
+    width: 60px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.list-section-menu:hover {
+    cursor: pointer;
+}
+
+.list-section-menu-icon {
+    font-size: 22px;
+}
+
+.list-section-menu-all {
+    font-weight: 700;
+    font-size: 14px;
+    padding-left: 5px;
+}
+
+/* box2 */
+.list-section-tabs {
+    font-size: 14px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    margin-left: 12px;
+    width: 430px;
+}
+
+.list-section-tabs-today {
+    font-weight: 500;
+}
+
+.list-section-tabs-today:hover {
+    cursor: pointer;
+}
+
+.list-section-tabs-registry {
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.list-section-tabs-registry:hover {
+    cursor: pointer;
+}
+
+.list-section-tabs-customer {
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.list-section-tabs-customer:hover {
+    cursor: pointer;
+}
+
+.list-section-tabs-gift {
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.list-section-tabs-gift:hover {
+    cursor: pointer;
+}
+
+.list-section-tabs-sell {
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.list-section-tabs-sell:hover {
+    cursor: pointer;
+}
