@@ -34,13 +34,13 @@
 
 #deliver {
     color: #CCCCCC;
-    font-size: 12px;
+    font-size: 0.75rem;
     margin-left:15px ;
 }
 
 #india {
     color: #fff;
-    font-size: 14px;
+    font-size: 0.875rem;
     margin-left: 10px;
     font-weight: bold;
 }
@@ -62,7 +62,7 @@
 } 
 
 .nav-address-icon i {
-    font-size: 17px;
+    font-size: 1.063rem;
 }
 
 /* Box3 */
@@ -78,7 +78,7 @@
     width: 50px;
     background-color: #e6e6e6;
     padding-left:7px ;
-    font-size: 13px;
+    font-size: 0.813rem;
     border-top-left-radius:5px ;
     border-bottom-left-radius:5px ;
 }
@@ -95,7 +95,7 @@
     border-bottom-right-radius: 5px;
     justify-content: center;
     align-items: center;
-    font-size: 25px;
+    font-size: 1.563rem;
     border: 0.3px solid black;
 }
 
@@ -111,12 +111,12 @@
 }
 
 .nav-signin-first {
-    font-size: 13px;
+    font-size: 0.813rem;
     font-weight: 400;
 }
 
 .nav-signin-second {
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 700;
 }
 
@@ -132,12 +132,12 @@
 }
 
 .nav-orders-first {
-    font-size: 13px;
+    font-size: 0.813rem;
     font-weight: 400;
 }
 
 .nav-orders-second {
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 700;
 }
 
@@ -154,14 +154,14 @@
 }
 
 .nav-cart i {
-    font-size: 25px;
+    font-size: 1.563rem;
 }
 
 .nav-cart-cart {
     padding-top: 10px;
     padding-left: 3px;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 /* List-Section */
@@ -187,12 +187,12 @@
 }
 
 .list-section-menu-icon {
-    font-size: 22px;
+    font-size: 1.375rem;
 }
 
 .list-section-menu-all {
     font-weight: 700;
-    font-size: 14px;
+    font-size: 0.875rem;
     padding-left: 5px;
 }
 
@@ -258,12 +258,13 @@
 }
 
 .hero-section-first {
-    font-size: 15px;
+    font-size: 0.94rem;
     background-color: #f5f6f6;
     height: 20px;
-    width: 1400px;
+    width: inherit;
     padding: 10px 14px;
     margin-left: 16px;
+    margin-right: 16px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -363,12 +364,12 @@
 }
 
 .footer-second-section p {
-    font-size: 19px;
+    font-size: 1.18rem;
     font-weight: bolder;
 }
 
 .footer-second-section ul li {
-    font-size: 14px;
+    font-size: 0.87rem;
     color: #dddddd;
     margin-top: 17px;
 }
